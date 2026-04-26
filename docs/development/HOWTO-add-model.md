@@ -151,6 +151,10 @@ Examples:
 
 https://github.com/ggml-org/ggml/blob/master/docs/gguf.md
 
+## DeepSeek-V4 notes
+
+- [DeepSeek-V4 GGUF notes](./deepseek-v4-gguf.md)
+
 ## Resources
 
 - YaRN RoPE scaling https://github.com/ggml-org/llama.cpp/pull/2268
